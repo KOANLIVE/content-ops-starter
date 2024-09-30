@@ -173,7 +173,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Mitos más importantes de la región del Urabá
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
