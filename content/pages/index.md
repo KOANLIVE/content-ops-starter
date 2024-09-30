@@ -8,10 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: REVISTA MITOS
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Lorem ipsum dolor sit amet consectetur adipiscing elit nulla donec, diam
+      porta class bibendum congue ligula nunc. Nibh duis cursus conubia
+      sollicitudin odio maecenas quisque lobortis parturient tempor, praesent
+      porta velit vehicula nec fames suscipit fermentum orci facilisis dis,
+      primis feugiat aptent lacinia hendrerit id et aenean cum. Platea tristique
+      nibh aliquam aliquet potenti morbi, dui auctor ultrices class hac
+      dictumst, vulputate quisque interdum et viverra.
+
     actions:
       - label: Ver contenido
         altText: ''
