@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Revista Mitos
 slug: /
 sections:
   - type: GenericSection
