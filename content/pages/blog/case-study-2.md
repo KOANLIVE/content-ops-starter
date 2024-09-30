@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/contenful-logo.svg
+  url: /images/photo-1719937206642-ca0cd57198cc.avif
   altText: Case study 2
   styles:
     self:
