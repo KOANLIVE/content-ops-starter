@@ -415,7 +415,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/photo-1719937206642-ca0cd57198cc.avif
           altText: Maria Walters
           styles:
             self:
