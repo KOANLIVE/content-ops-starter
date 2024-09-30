@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Ingresar",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
