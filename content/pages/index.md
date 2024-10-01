@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Sólo para propósitos educativos
+      text: Exclusivamente para propósitos educativos
       color: text-dark
       type: TitleBlock
     subtitle: REVISTA MITOS
