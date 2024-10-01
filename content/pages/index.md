@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/antony-freitas--mh93459SJ8-unsplash.jpg
+      url: /images/janis-dzenis-HiPHKi8Ft7I-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
