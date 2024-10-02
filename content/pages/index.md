@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Universidad Católica Luis Amigó
+      text: Para propósitos educativos
       color: text-dark
       type: TitleBlock
     subtitle: REVISTA MITOS
