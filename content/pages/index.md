@@ -27,15 +27,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Historia
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/janis-dzenis-HiPHKi8Ft7I-unsplash.jpg
       altText: Unblock your team boost your time to production preview
