@@ -37,7 +37,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/janis-dzenis-HiPHKi8Ft7I-unsplash.jpg
+      url: /images/clem-onojeghuo-Sgthj0HW6ec-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
