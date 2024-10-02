@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Universidad Católica Luis Amigó
+      text: Para propósitos educativos
       color: text-dark
       type: TitleBlock
     subtitle: REVISTA MITOS
@@ -27,17 +27,8 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Historia
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/simeon-asenov-uCNTrg3e2pE-unsplash.jpg
+      url: /images/janis-dzenis-HiPHKi8Ft7I-unsplash.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
